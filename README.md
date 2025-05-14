@@ -38,7 +38,7 @@ El usuario se encuentra con distintas situaciones descritas en pantalla, junto c
 ---
 
 ## 📁 Estructura del proyecto
-
+```
 /images
 │
 └── background.png
@@ -47,10 +47,10 @@ El usuario se encuentra con distintas situaciones descritas en pantalla, junto c
 ├── main.dart # Punto de entrada de la aplicación, interfaz principal.
 ├── story_brain.dart # Controlador de lógica narrativa y navegación entre historias.
 └── story.dart # Modelo de datos que define la estructura de una historia.
-
+```
 ---
 
 ## 👤 Autor
 
-Desarrollado por **[María José Mendieta Ortiz]**   
-🌐 [https://github.com/MariaJoseMendieta]
+Desarrollado por **María José Mendieta Ortiz**   
+🌐 https://github.com/MariaJoseMendieta
