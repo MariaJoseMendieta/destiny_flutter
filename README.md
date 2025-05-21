@@ -10,6 +10,13 @@ El usuario se encuentra con distintas situaciones descritas en pantalla, junto c
 
 ---
 
+## 👁 Vista App
+<p align="center">
+  <img src="app.png" width="200"/>
+</p>
+
+---
+
 ## 🚀 Funcionalidades principales
 
 - Presentación secuencial de una historia interactiva.
